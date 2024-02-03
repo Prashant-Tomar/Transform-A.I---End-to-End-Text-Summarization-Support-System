@@ -19,6 +19,7 @@ Clone the repository : https://github.com/Prashant-Tomar/Transform-A.I---End-to-
 # STEP 01- Create a conda environment after opening the repository
 
 conda create -n summary python=3.8 -y
+
 conda activate summary
 
 # STEP 02- install the requirements
