@@ -4,12 +4,19 @@ Designed and developed an abstractive Text Summarization system utilizing PEGASU
 # Follow-these-steps
 
 Update config.yaml
+
 Update params.yaml
+
 Update entity
+
 Update the configuration manager in src config
+
 update the conponents
+
 update the pipeline
+
 update the main.py
+
 update the app.py
 
 # How-to-run ?
